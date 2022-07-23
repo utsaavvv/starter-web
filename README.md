@@ -13,3 +13,7 @@ Sample website with plenty of files for demos. As ststed above he main purpose i
 ## Deployment
 
 This is a simple web project, deployment can be on any web server or even local file system.
+
+### Copyright
+
+2014 Git.Training
